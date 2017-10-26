@@ -13,3 +13,9 @@ It's a little Hack'n slash game made with Unity in one week.
 - Enemies may drop weapons or potions, pick them up to become more and more powerfull !
 
 ### Screenshots:
+
+![alt tag](https://github.com/fdel-car/Hob-n-slash/blob/master/screenshots/player-panel.png)
+
+![alt tag](https://github.com/fdel-car/Hob-n-slash/blob/master/screenshots/lava-desert.png)
+
+![alt tag](https://github.com/fdel-car/Hob-n-slash/blob/master/screenshots/water-desert.png)
