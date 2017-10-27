@@ -19,3 +19,7 @@ It's a little Hack'n slash game made with Unity in one week.
 ![alt tag](https://github.com/fdel-car/Hob-n-slash/blob/master/screenshots/lava-desert.png)
 
 ![alt tag](https://github.com/fdel-car/Hob-n-slash/blob/master/screenshots/water-desert.png)
+
+### Credits:
+
+![alt tag](https://github.com/fdel-car/Hob-n-slash/blob/master/screenshots/loading-screen.png)
