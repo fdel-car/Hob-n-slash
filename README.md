@@ -22,4 +22,4 @@ It's a little Hack'n slash game made with Unity in one week.
 
 ### Disclaimer:
 
-We do not own most of the assets, every one of them belongs to their respective crators and they are used only for an educational purpose.
+We do not own most of the assets, every one of them belongs to their respective creators and they are used only for an educational purpose.
